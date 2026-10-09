@@ -1,0 +1,8 @@
+{
+  "name": "sdd-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node --check src/saludo.js",
+    "test": "node --test"
+  }
+}
